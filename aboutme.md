@@ -10,4 +10,5 @@ Merhaba! Ben Burkay
 
 Hello! My name Burkay
 
- -
+ - I'm responsible for custom Mi User interface rom named MIUIPLUS for Redmi Note 7 and Mi A2 Lite devices.
+ - I take semi-professional photos.
