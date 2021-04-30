@@ -16,9 +16,9 @@ author: Berke Burkay Yilmaz
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - MIUIPLUS Custom Rom: "https://t.me/miuiplusteam"
+    - Cloud: "https://t.me/burkaycloud"
+  Author's home: "https://"
 
 # --- Logo --- #
 
@@ -206,6 +206,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Beautiful Berke Burkay Yilmaz
 # 2fc73a3a967e97599c9763d05e564189
 
